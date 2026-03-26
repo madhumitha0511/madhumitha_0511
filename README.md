@@ -347,8 +347,8 @@ Events Led
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&count_private=true&theme=radical&bg_color=0d0d0d&title_color=f97316&icon_color=ec4899&text_color=fef9c3&border_color=f97316&border_radius=12&include_all_commits=true" height="180"/>
-&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhumitha0511&theme=monokai" width="95%" />
+</div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=radical&bg_color=0d0d0d&title_color=f97316&text_color=fef9c3&border_color=f97316&border_radius=12&langs_count=8" height="180"/>
 
 <br/><br/>
