@@ -352,6 +352,9 @@ Events Led
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhumitha0511&theme=monokai" width="30%" />
   &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhumitha0511&theme=monokai" width="30%" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=radical&background=0d0d0d&stroke=f97316&ring=f97316&fire=ec4899&currStreakLabel=06b6d4&sideLabels=fef9c3&dates=8b949e&border=f97316&border_radius=12" />
 </div>
 <br/><br/>
 
