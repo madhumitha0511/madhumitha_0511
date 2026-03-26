@@ -315,8 +315,8 @@ class Madhumitha:
 
 <br/>
 
-> 💡 **Portfolio link coming soon** — drop a ⭐ to stay notified!  
-> *(Replace this line with your actual portfolio URL when ready)*
+> 💡 **Portfolio link ** — drop a ⭐ to stay notified!  
+> *((https://madhumitha-venkatesan.onrender.com/))*
 
 ---
 
