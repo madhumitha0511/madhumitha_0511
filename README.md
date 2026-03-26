@@ -6,14 +6,12 @@
 <!-- ✨ TYPING -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFB6E6&center=true&vCenter=true&width=650&lines=Building+AI+that+actually+works;Real-Time+Systems+%2B+ML+Pipelines;Flutter+%2B+React+%2B+Python;Turning+ideas+into+products" />
 
-<br/>
-
 <!-- 💫 PASTEL BADGES -->
 <img src="https://img.shields.io/badge/AI%20Engineer-ffe4ec?style=for-the-badge&color=f3d1ff"/>
 <img src="https://img.shields.io/badge/Full%20Stack-fde2ff?style=for-the-badge&color=e0c3fc"/>
 <img src="https://img.shields.io/badge/Open%20to%20Opportunities-fff1f7?style=for-the-badge&color=ffd6e0"/>
 
-<br/><br/>
+<br/>
 
 <!-- 🌐 SOCIAL -->
 <a href="https://linkedin.com/in/madhumithavenkatesan">
@@ -46,11 +44,11 @@ I build **AI-powered systems that run in real-time** — not just models.
 - 🔗 End-to-end system architecture  
 
 💡 Currently building:
-→ Energy Management Systems  
-→ EMG-based Eye Strain Detection  
-→ AI-powered health + sensor apps  
+→ ATS Resume Analyzer
+→ Booking Systems
+→ Dynamic Preimum Websites 
 
-> *I don’t just code — I build systems people actually use.*
+> I don’t just code — I build systems people actually use.
 
 <br clear="right"/>
 
@@ -102,7 +100,7 @@ with live visualization.
 
 <td width="50%" valign="top">
 
-### 🤖 Moodle AI Plugin  
+### 🤖 Moodle AI - LMS  
 <img src="https://img.shields.io/badge/AWS-fbc2eb?style=flat-square"/>  
 <img src="https://img.shields.io/badge/NLP-a6c1ee?style=flat-square"/>
 
@@ -145,15 +143,82 @@ and student recommendations.
 
 ---
 
-<!-- 🎨 STACK -->
 ## 🎨 Tech Stack
 
-`Python` `JavaScript` `TypeScript` `Dart`  
-`React` `Flutter` `Node.js` `Flask`  
-`MongoDB` `PostgreSQL` `Firebase`  
-`Kafka` `Flink` `AWS`  
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🧠 AI / ML
+
+<img src="https://img.shields.io/badge/Python-f3d1ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flask-ffe4ec?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-ffd6e0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time%20Series-a6c1ee?style=for-the-badge"/>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🖥️ Backend
+
+<img src="https://img.shields.io/badge/Node.js-fbc2eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Express-e0c3fc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20APIs-fff1f7?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 📱 Frontend & Mobile
+
+<img src="https://img.shields.io/badge/Flutter-fbc2eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-a6c1ee?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React%20Native-f3d1ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML/CSS/JS-ffe4ec?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tailwind-ffd6e0?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+### 🗄️ Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-a6c1ee?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MySQL-fbc2eb?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🎨 Tools
+
+<img src="https://img.shields.io/badge/Figma-f3d1ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS%20Code-ffe4ec?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Android%20Studio-ffd6e0?style=for-the-badge"/>
+
+</td>
+
+<td align="center">
+
+### 🌐 Other Skills
+
+<img src="https://img.shields.io/badge/SEO-fbc2eb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEMrush-a6c1ee?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ahrefs-f3d1ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GSC-ffe4ec?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <!-- 📊 STATS -->
 ## 📊 GitHub Stats
@@ -181,8 +246,6 @@ and student recommendations.
 <div align="center">
 
 ✨ *“Code is not just logic — it’s impact.”* ✨
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a6c1ee,50:fbc2eb,100:a6c1ee&height=120&section=footer"/>
 
