@@ -310,13 +310,13 @@ class Madhumitha:
 <a href="mailto:madhumitha0511@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<a href="https://madhumitha-venkatesan.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </div>
 
 <br/>
-
-> 💡 **Portfolio link ** — drop a ⭐ to stay notified!  
-> *((https://madhumitha-venkatesan.onrender.com/))*
+> *(/))*
 
 ---
 
