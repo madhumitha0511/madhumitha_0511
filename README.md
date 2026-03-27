@@ -286,15 +286,7 @@ Secure event webapp:
 
 </div>
 
-<!-- ░░░ GITHUB STATS ░░░ -->
-📊 GitHub Stats
-<div align="center"> <br/> <img height="180" src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/> &nbsp; <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-<br/><br/>
-<img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=tokyonight&hide_border=true"/>
-<br/><br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&theme=tokyo-night&hide_border=true&area=true"/>
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/> </div>
+
 <!-- ░░░ CERTIFICATIONS ░░░ -->
 🏆 Certifications & Achievements
 <p align="center"> <img src="https://img.shields.io/badge/🔶_Oracle_Cloud_AI_Foundations-Certified_Mar_2026-f97316?style=for-the-badge&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/🤖_Anthropic_AI_Fluency-Certified_Mar_2026-a855f7?style=for-the-badge&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/🏆_SIH_2024-Top_25_·_Govt_of_India-f59e0b?style=for-the-badge&labelColor=1e1e2e"/> </p> <p align="center"> <img src="https://img.shields.io/badge/ML_IIT_Kharagpur-NPTEL_2025-7c3aed?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/NLP_Fundamentals-Infosys_Springboard-0891b2?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/Intro_to_Modern_AI-Cisco_Academy-16a34a?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/Data_Science-Cisco_+_Infosys-0284c7?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/Generative_AI-GUVI_/_IITM-a855f7?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/React.js-Infosys_Springboard-61dafb?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/ML_Onramp-MathWorks-e16a22?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/Cybersecurity-Coincent.ai-dc2626?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/BITS_Pilani_Hackathon-Participant_2025-16a34a?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/GDG_Campus-Solution_Challenge_2025-4285f4?style=flat-square&labelColor=1e1e2e"/> </p>
