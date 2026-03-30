@@ -254,46 +254,13 @@ Secure event webapp:
 
 ---
 
-<!-- ░░░ GITHUB STATS ░░░ -->
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Code+daily.+Ship+weekly.+Learn+always.+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=madhumitha0511&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhumitha0511&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=madhumitha0511&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=madhumitha0511&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=madhumitha0511&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-<br/><br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=madhumitha0511&style=flat-square&color=58A6FF&label=Profile+Views)
-
-</div>
 
 
-<!-- ░░░ CERTIFICATIONS ░░░ -->
-🏆 Certifications & Achievements
-<p align="center"> <img src="https://img.shields.io/badge/🔶_Oracle_Cloud_AI_Foundations-Certified_Mar_2026-f97316?style=for-the-badge&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/🤖_Anthropic_AI_Fluency-Certified_Mar_2026-a855f7?style=for-the-badge&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/🏆_SIH_2024-Top_25_·_Govt_of_India-f59e0b?style=for-the-badge&labelColor=1e1e2e"/> </p> <p align="center"> <img src="https://img.shields.io/badge/ML_IIT_Kharagpur-NPTEL_2025-7c3aed?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/NLP_Fundamentals-Infosys_Springboard-0891b2?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/Intro_to_Modern_AI-Cisco_Academy-16a34a?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/Data_Science-Cisco_+_Infosys-0284c7?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/Generative_AI-GUVI_/_IITM-a855f7?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/React.js-Infosys_Springboard-61dafb?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/ML_Onramp-MathWorks-e16a22?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/Cybersecurity-Coincent.ai-dc2626?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/BITS_Pilani_Hackathon-Participant_2025-16a34a?style=flat-square&labelColor=1e1e2e"/> <img src="https://img.shields.io/badge/GDG_Campus-Solution_Challenge_2025-4285f4?style=flat-square&labelColor=1e1e2e"/> </p>
-<!-- ░░░ QUOTE + FOOTER ░░░ --> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/> <br/>
+
+<!-- ░░░ QUOTE + FOOTER ░░░ --> <div align="center">  <br/>
 "I build things that actually work."
-<br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=💼+Open+for+Internships+%26+Freelance;🤝+Always+open+to+collaborate+on+something+real;⚡+Always+building+·+always+learning"/>
-<br/><br/>
+<br/> 
+<br/>
 
 <br/>
    
